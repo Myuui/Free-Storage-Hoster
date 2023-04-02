@@ -6,8 +6,11 @@ This repository is a curated list of the **best free storage hosting services av
 | Reviews | Host         | Storage Limit | Maximum File Size | Supported File Types                                                                                      | Encryption | Upload and Download Speeds           | Availability and Uptime | Watermarks |
 |---------|--------------|---------------|--------------------|-------------------------------------------------------------------------------------------------------------|--------------|----------------------------------------|--------------------------|------------|
 | 2.0 :star:      | WeTransfer   | ∞             | 2 GB               | All                                                                                                         | ✅           | ❔                                      | 100%                     | ❌         |
-| 3.7 :star:      | file.io     | 4 GB/h        | 2 GB               | All                                                                                                         | ✅           | 📤 150 MOps / 📥 20 MOps to 40 MOps | ❔                       | ❌         |
+| 3.7 :star:      | file.io     | 4 GB/h        | 2 GB               | All                                                                                                         | ✅           | 📤 150 Mbps / 📥 20 Mbps to 40 Mbps | ❔                       | ❌         |
 | ? :star:         | easyupload.io| ∞             | 10 GB              | All                                                                                                         | ✅           | ❔                                      | ❔                       | ❌         |
-| 1.4 :star:      | Dropbox     | 2 GB          | 50 MB              | [List of Unsupported files format](https://justpaste.it/d714l) | ✅           | 📤 150 MOps / 📥 20 MOps to 40 MOps | 99.9%                    | ❌         |
+| 1.4 :star:      | Dropbox     | 2 GB          | 50 MB              | [List of Unsupported files format](https://justpaste.it/d714l) | ✅           | 📤 150 Mbps / 📥 20 Mbps to 40 Mbps | 99.9%                    | ❌         |
 | 3.7 :star:      | Filemail    | ∞             | 5 GB               | All                                                                                                         | ✅           | ❔                                      | 99.9%                    | ❌         |
 |? :star:|Filebin|∞|∞|❔|❌|❔|❔|❌|
+|? :star:|UploadNow|∞|∞|All|✅|∞|❔|❌|
+|4.9 :star:|TransferNow|∞|5 GB|❔ (.exe, .iso, .udf)|✅|❔|❔|❌|
+|--|--|--|--|--|--|--|--|--|
