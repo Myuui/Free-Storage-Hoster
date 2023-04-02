@@ -10,3 +10,4 @@ This repository is a curated list of the **best free storage hosting services av
 | ? :star:         | easyupload.io| ∞             | 10 GB              | All                                                                                                         | ✅           | ❔                                      | ❔                       | ❌         |
 | 1.4 :star:      | Dropbox     | 2 GB          | 50 MB              | [List of Unsupported files format](https://justpaste.it/d714l) | ✅           | 📤 150 MOps / 📥 20 MOps to 40 MOps | 99.9%                    | ❌         |
 | 3.7 :star:      | Filemail    | ∞             | 5 GB               | All                                                                                                         | ✅           | ❔                                      | 99.9%                    | ❌         |
+|? :star:|Filebin|∞|∞|❔|❌|❔|❔|❌|
