@@ -26,3 +26,4 @@ This repository is a curated list of the **best free storage hosting services av
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? :star:|Lolabits|∞/ 250GB per acc|20 GB|All|✅|∞|❔|❌|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? :star:|UpVid|∞/ 250GB per acc|20 GB|All|✅|∞|❔|❌|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.7 :star:|Send|∞|2.5 GB|All|✅|❔|❔|❌|
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.7 :star:|Wormhole|10 GB|All|✅|❔|--|--|--|
