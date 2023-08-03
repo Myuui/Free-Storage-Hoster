@@ -5,7 +5,7 @@ This repository is a curated list of the **best free storage hosting services av
 
 | Reviews | Host | Storage Limit | Maximum File Size | Supported File Types | Encryption | Upload and Download Speeds | Availability and Uptime | Watermarks |
 |--|--|--|--|--|--|--|--|--|
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-2.svg) 2.0 :star: | WeTransfer |∞|2 GB| All |✅|❔|100%|❌|
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-2.svg) 2.0 :star: | WeTransfer |∞|2 GB|All|✅|❔|100%|❌|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.7 :star:|file.io|4 GB/h|2 GB|All|✅|📤 150 Mbps / 📥 20 Mbps to 40 Mbps|❔|❌|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? :star:|easyupload.io|∞|10 GB|All|✅|❔|❔|❌|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-1.5.svg) 1.4 :star:|Dropbox|2 GB|50 MB|[List of Unsupported files format](https://justpaste.it/d714l)|✅|📤 150 Mbps / 📥 20 Mbps to 40 Mbps|99.9%|❌|
@@ -25,4 +25,4 @@ This repository is a curated list of the **best free storage hosting services av
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? :star:|RapidShare|∞/ 250GB per acc|20 GB|All|✅|∞|❔|❌|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? :star:|Lolabits|∞/ 250GB per acc|20 GB|All|✅|∞|❔|❌|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? :star:|UpVid|∞/ 250GB per acc|20 GB|All|✅|∞|❔|❌|
-
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.7 :star:|Send|∞|2.5 GB|All|✅|❔|❔|❌|
