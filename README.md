@@ -13,17 +13,5 @@ This repository is a curated list of the **best free storage hosting services av
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? :star:|Filebin|∞|∞|❔|❌|❔|❔|❌|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? :star:|UploadNow|∞|∞|All|✅|∞|❔|❌|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg) 4.9 :star:|TransferNow|∞|5 GB|❔ (.exe, .iso, .udf)|✅|❔|❔|❌|
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.svg) 2.8 ⭐|AnonFiles|∞/ 250GB per acc|20 GB|All|✅|∞|❔|❌|
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? :star:|FileChan|∞/ 250GB per acc|20 GB|All|✅|∞|❔|❌|
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? :star:|LetsUpload|∞/ 250GB per acc|20 GB|All|✅|∞|❔|❌|
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? :star:|Share-Online|∞/ 250GB per acc|20 GB|All|✅|∞|❔|❌|
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? :star:|MegaUpload|∞/ 250GB per acc|20 GB|All|✅|∞|❔|❌|
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? :star:|MyFile|∞/ 250GB per acc|20 GB|All|✅|∞|❔|❌|
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? :star:|VShare|∞/ 250GB per acc|20 GB|All|✅|∞|❔|❌|
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? :star:|ZippyShare|∞/ 250GB per acc|20 GB|All|✅|∞|❔|❌|
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? :star:|HotFile|∞/ 250GB per acc|20 GB|All|✅|∞|❔|❌|
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? :star:|RapidShare|∞/ 250GB per acc|20 GB|All|✅|∞|❔|❌|
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? :star:|Lolabits|∞/ 250GB per acc|20 GB|All|✅|∞|❔|❌|
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? :star:|UpVid|∞/ 250GB per acc|20 GB|All|✅|∞|❔|❌|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.7 :star:|Send|∞|2.5 GB|All|✅|❔|❔|❌|
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.7 :star:|Wormhole|10 GB|All|✅|❔|❔|❔|❌|
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.7 :star:|Wormhole|∞|10 GB|All|✅|❔|❔|❌|
